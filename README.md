@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rodrigo
+## Olá! Eu sou o Rodrigo, sou Desenvolvedor Web Full-Stack
 
 
 ### Conhecimentos
