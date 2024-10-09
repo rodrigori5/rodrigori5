@@ -8,7 +8,8 @@
 
 - 🌱 Sempre estudando ...
 - 📫 Como entrar em contato comigo:
-  :email: rodrigonmachado15@hotmail.com
+  
+- :email: rodrigonmachado15@hotmail.com
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
