@@ -1,9 +1,7 @@
-## Hi there 👋
+## Olá
 
-<!--
-**rodrigori5/rodrigori5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### Tecnologias que trabalho
+#### Tecnologias com que trabalho
 
 
 
