@@ -1,5 +1,5 @@
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigori5)](https://github.com/rodrigori5/github-readme-stats)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigori5&show_icons=true&theme=radical)](https://github.com/rodrigori5/github-readme-stats)
 
 ## Olá! Eu sou o Rodrigo, sou Desenvolvedor Web
 
