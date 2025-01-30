@@ -1,7 +1,8 @@
 
+## Olá! Eu sou o Rodrigo, sou Desenvolvedor de Software
+
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigori5&show_icons=true&theme=dark)](https://github.com/rodrigori5/github-readme-stats)
 
-## Olá! Eu sou o Rodrigo, sou Desenvolvedor de Software
 
 
 ### Tecnologias que utilizo no dia a dia
